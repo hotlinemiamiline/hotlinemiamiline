@@ -14,7 +14,7 @@ I specialize in **delivering results** by combining No-Code tools, AI-generated 
 **Automation & No-Code (My Strongest Side):**
 - **Chatbots:** Expert in conversational flows (Botmother, Telegram Bot API).
 - **Integration:** Albato, Webhooks (Google Sheets, supabase and Bots).
-- **Data:** Automating complex reports (Google Sheets API -> Looker Studio).
+- **Data:** Automating complex reports (Google Sheets API -> Looker Studio or Web site).
 
 **AI-Assisted Development (How I build Apps):**
 ![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat&logo=openai&logoColor=white)
@@ -25,7 +25,7 @@ I specialize in **delivering results** by combining No-Code tools, AI-generated 
 
 **Maintenance & Management (What I handle):**
 - **Legacy Support:** Basic fixes in PHP/HTML projects via FTP.
-- **Databases:** Interacting with data via DBeaver / Supabase / SQL (basic queries).
+- **Databases:** Interacting with data via DBeaver / Supabase / SQL (basic queries) / Google sheets.
 - **Management:** Writing Tech Specs (TZ), managing outsource teams, QA & Bug tracking.
 
 ---
