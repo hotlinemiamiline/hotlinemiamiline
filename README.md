@@ -13,7 +13,7 @@ I specialize in **delivering results** by combining No-Code tools, AI-generated 
 
 **Automation & No-Code (My Strongest Side):**
 - **Chatbots:** Expert in conversational flows (Botmother, Telegram Bot API).
-- **Integration:** Albato, Webhooks (connecting CRMs, Google Sheets, and Bots).
+- **Integration:** Albato, Webhooks (Google Sheets, supabase and Bots).
 - **Data:** Automating complex reports (Google Sheets API -> Looker Studio).
 
 **AI-Assisted Development (How I build Apps):**
