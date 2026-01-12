@@ -37,8 +37,8 @@ I specialize in **delivering results** by combining No-Code tools, AI-generated 
     - Automated weekly reporting from 50+ sources into unified Dashboards.
 
 2.  **Web-Tools & Calculators**
-    - Integrated Ucalc calculators with Google Sheets for real-time data processing.
-    - Launched "Videozal" & "Farmconsilium" (managed outsource dev & testing).
+    - Integrated Telegram mini apps + medical calculators with Google Sheets for real-time data processing.
+    - Managed outsource dev & testing.
 
 3.  **Automation**
     - "Friend Bot" for matching users based on interests.
